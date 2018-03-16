@@ -5,6 +5,7 @@
 	<groupId>com.github</groupId>
 	<artifactId>Daniel Khandl</artifactId>
 	<version>0.0.1</version>
+	<name>testCase</name>
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
