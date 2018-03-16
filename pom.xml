@@ -5,7 +5,11 @@
 	<groupId>com.github</groupId>
 	<artifactId>Daniel Khandl</artifactId>
 	<version>0.0.1</version>
+<<<<<<< HEAD
 	<description>testovací příklad</description>
+=======
+	<name>testCase</name>
+>>>>>>> dev
 	<dependencies>
 		<dependency>
 			<groupId>junit</groupId>
